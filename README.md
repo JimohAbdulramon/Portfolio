@@ -17,5 +17,8 @@ I use DCF and other methods to estimate company worth and support investor pitch
 ## MY PROJECTS 
 *A glimpse of some of the projects I've been working on.*
 
-**New York Jobs CEO Council Financial Analyst Job Simulation on Forage - March 2025**
-
+**Dangote Cement PLC Financial Statement Analysis**
+ ![image](ref dang.PNG)
+ Dangote Cement demonstrated solid top-line growth in 2022, supported by increased sales volume and strategic market expansion across Africa. Despite rising input costs, the company maintained a strong EBITDA margin, reflecting efficient operations and cost management.
+ **BIGTECH Financial Analysis**
+ 
