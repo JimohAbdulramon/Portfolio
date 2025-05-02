@@ -34,4 +34,11 @@ I use DCF and other methods to estimate company worth and support investor pitch
 
 Dangote Cement demonstrated solid top-line growth in 2022, supported by increased sales volume and strategic market expansion across Africa.
 **Startup Financial Models for Fundraising*
-![image]
+![image](jao1.PNG)
+![image](jao2.PNG)
+![image](jao3.PNG)
+![image](jao4.PNG)
+![image](jao5.PNG)
+
+JAO Farm is a Startup Agribusiness  that is in Need of Fund. A financial model was built for fundraising
+
