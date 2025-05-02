@@ -23,5 +23,8 @@ I use DCF and other methods to estimate company worth and support investor pitch
  Dangote Cement demonstrated solid top-line growth in 2022, supported by increased sales volume and strategic market expansion across Africa. Despite rising input costs, the company maintained a strong EBITDA margin, reflecting efficient operations and cost management.
  
  **BIGTECH Financial Analysis**
- ![image](
+ ![image](Quarterly.PNG)
+
+  Completed a Simulation focused on financial analysis as an Analyst on the technology team at an investment bank.•	Played a pivotal role in aiding senior bankers to determine the feasibility of establishing a partnership with BigTechCompany.
+ 
  
