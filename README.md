@@ -46,6 +46,6 @@ The JAO Farm financial model serves as a critical tool for fundraising, providin
 
 **Contact Details**
 
-E-Mail Address: abdulramonjimoh2000@gmail.com
-Mobile: +234 7088902485
-LinkedIN: www.linkedin.com/in/abdulramon-jimoh-2a4a86284
+*E-Mail Address:* abdulramonjimoh2000@gmail.com
+*Mobile:* +234 7088902485
+*LinkedIN:* www.linkedin.com/in/abdulramon-jimoh-2a4a86284
