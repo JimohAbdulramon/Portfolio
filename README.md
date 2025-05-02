@@ -27,4 +27,5 @@ I use DCF and other methods to estimate company worth and support investor pitch
 
   Completed a Simulation focused on financial analysis as an Analyst on the technology team at an investment bank.•	Played a pivotal role in aiding senior bankers to determine the feasibility of establishing a partnership with BigTechCompany.
  
- 
+ **DANGOTE Cement PLC Financial Model**
+ ![image](Front page Dangote.PNG) (
