@@ -32,13 +32,20 @@ I use DCF and other methods to estimate company worth and support investor pitch
  ![image](finance.PNG)
  ![image](Assumptions & Drivers.PNG)
 
-Dangote Cement demonstrated solid top-line growth in 2022, supported by increased sales volume and strategic market expansion across Africa.
-**Startup Financial Models for Fundraising*
+The Dangote Cement financial model provided a comprehensive framework for evaluating the company’s valuation, profitability, and growth potential. By projecting future cash flows and key financial ratios, it enabled well-informed investment decisions and scenario analysis. This model proved essential for equity research, offering clarity on the stock's intrinsic value and financial health.
+
+**Startup Financial Models for Fundraising**
 ![image](jao1.PNG)
 ![image](jao2.PNG)
 ![image](jao3.PNG)
 ![image](jao4.PNG)
 ![image](jao5.PNG)
 
-JAO Farm is a Startup Agribusiness  that is in Need of Fund. A financial model was built for fundraising
+The JAO Farm financial model serves as a critical tool for fundraising, providing investors with a clear projection of revenue, expenses, and profitability. It highlights the farm’s growth potential, operational efficiency, and expected returns, ensuring transparency and confidence for potential investors. With scenario analysis and cash flow forecasting, the model strengthens the investment case, demonstrating JAO Farm’s sustainability and scalability.
 
+
+**Contact Details**
+
+E-Mail Address: abdulramonjimoh2000@gmail.com
+Mobile: +234 7088902485
+LinkedIN: www.linkedin.com/in/abdulramon-jimoh-2a4a86284
